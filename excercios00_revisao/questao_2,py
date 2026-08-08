@@ -1,0 +1,12 @@
+n1 = int(input("digite o primeiro numero " ))
+n2 = int(input("digite o segundo numero " ))
+
+multiplicacao = n1 * n2
+divisao = n1 / n2
+exponenciacao = n1 ** n2
+resto = n1 // n2
+
+print("Multiplicação:", multiplicacao)
+print("Divisão:", divisao)
+print("Exponenciacão:",exponenciacao)
+print("Resto:", resto)
